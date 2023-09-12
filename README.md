@@ -2,7 +2,7 @@
 
 [DEMO](https://promtopia-eight.vercel.app/)
 
-##### Promtopia is a web application that allows users to participate in a creative writing community. Users can create, update, and delete their writing prompts, fostering a collaborative environment for writers to share their imaginative ideas. Authenticated users can access additional features, while non-authenticated users are limited to reading and searching prompts.
+#### Promtopia is a web application that allows users to participate in a creative writing community. Users can create, update, and delete their writing prompts, fostering a collaborative environment for writers to share their imaginative ideas. Authenticated users can access additional features, while non-authenticated users are limited to reading and searching prompts.
 
 
 ## Table of Contents
